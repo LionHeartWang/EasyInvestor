@@ -4,7 +4,7 @@ package org.lionheart.easyinvestor.exception;
 /**
  * 异常。
  *
- * @author gradywang
+ * @author gufeng
  */
 public class EasyInvestorException extends RuntimeException {
     public EasyInvestorException(String message) {
